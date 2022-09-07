@@ -10,9 +10,11 @@
     font-weight: 600;
     font-size: 14px;
     line-height: 1.29;
+    text-decoration: none;
     text-align: center;
     letter-spacing: 1px;
     color: #FFFFFF;
+    transition: background .5s ease;
 }
 
 @media screen and (max-width: 1023px) {
@@ -20,4 +22,8 @@
         width: 100%;
         min-height: 46px;
     }
+}
+
+.intro__link:hover {
+    background: #1f986c;
 }
