@@ -1,0 +1,7 @@
+.header__item {
+    padding-left: 34px;
+}
+
+.header__item:first-of-type {
+    padding-left: 0;
+}

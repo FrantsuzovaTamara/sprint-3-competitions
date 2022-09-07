@@ -1,0 +1,13 @@
+.ride__text {
+    padding-left: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 1023px) {
+    .ride__text {
+        justify-content: flex-start;
+        padding-left: 0;
+    }
+}

@@ -1,0 +1,17 @@
+.ride__author-subtitle {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.75;
+    color: #222222;
+    opacity: 0.7;
+    margin: 0;
+}
+
+@media screen and (max-width: 1023px) {
+    .ride__author-subtitle {
+        padding-bottom: 80px;
+        font-size: 10px;
+        line-height: 1.6;
+    }
+}

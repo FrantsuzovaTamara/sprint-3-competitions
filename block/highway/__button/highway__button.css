@@ -1,0 +1,27 @@
+.highway__button {
+    width: 50px;
+    height: 100%;
+    background: #EBEBEB;
+    border-radius: 50px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    color: #151515;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.highway__button:first-of-type {
+    margin-right: 20px;
+}
+
+@media screen and (max-width: 1023px) {
+    .highway__button {
+        width: 24px;
+        font-size: 20px;
+    }
+    .highway__button:first-of-type {
+        margin-right: 10px;
+    }
+}

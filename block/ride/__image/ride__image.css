@@ -1,0 +1,14 @@
+.ride__image {
+    max-width: 650px;
+    width: 45.2vw;
+    max-height: 460px;
+}
+
+@media screen and (max-width: 1023px) {
+    .ride__image {
+        max-width: calc(100vw - 36px);
+        width: 100%;
+        object-fit: contain;
+        margin: 0 auto;
+    }
+}

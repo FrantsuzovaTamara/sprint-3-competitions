@@ -1,0 +1,17 @@
+.intro__line-text {
+    display: flex;
+    padding: 167px 0 209px;
+    align-items: center;
+}
+
+@media screen and (max-width: 1279px) {
+    .intro__line-text {
+        padding: 100px 0 160px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .intro__line-text {
+        padding: 80px 0 0;
+    }
+}

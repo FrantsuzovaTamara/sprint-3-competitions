@@ -1,0 +1,23 @@
+.intro__link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    min-height: 50px;
+    background: #24B47E;
+    border-radius: 4px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 1.29;
+    text-align: center;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+}
+
+@media screen and (max-width: 1023px) {
+    .intro__link {
+        width: 100%;
+        min-height: 46px;
+    }
+}

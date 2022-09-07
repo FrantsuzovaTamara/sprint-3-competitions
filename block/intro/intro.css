@@ -1,0 +1,17 @@
+.intro {
+    padding: 20px 0 0 120px;
+    background-image: url(/images/intro__image.png);
+    background-size: max(610px) max(836px);
+    background-size: 42.361% auto;
+    background-position: right 0 bottom 0;
+    background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 1023px) {
+    .intro {
+        padding: 40px 18px 0;
+        background-size: min(254px) min(348px);
+        background-size: 79.375% auto;
+        background-position: right 18px bottom 278px;
+    }
+}

@@ -1,0 +1,12 @@
+.highway__buttons {
+    display: flex;
+    grid-area: buttons;
+    height: 50px;
+}
+
+@media screen and (max-width: 1023px) {
+    .highway__buttons {
+        height: 24px;
+        justify-content: right;
+    }
+}

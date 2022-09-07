@@ -1,0 +1,12 @@
+.highway__line {
+    grid-area: line;
+    display: none;
+}
+
+@media screen and (max-width: 1023px) {
+    .highway__line {
+        display: block;
+        height: 1px;
+        background: #D7D4D4;
+    }
+}

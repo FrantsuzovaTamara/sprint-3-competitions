@@ -1,2 +1,33 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts.css);
+@import url(../block/page/page.css);
+
+@import url(../block/header/header.css);
+@import url(../block/header/__menu/header__menu.css);
+@import url(../block/header/__list/header__list.css);
+@import url(../block/header/__item/header__item.css);
+@import url(../block/header/__link/header__link.css);
+
+@import url(../block/intro/intro.css);
+@import url(../block/intro/__title/intro__title.css);
+@import url(../block/intro/__subtitle/intro__subtitle.css);
+@import url(../block/intro/__link/intro__link.css);
+@import url(../block/intro/__line-text/intro__line-text.css);
+@import url(../block/intro/__text/intro__text.css);
+@import url(../block/intro/__line/intro__line.css);
+
+@import url(../block/ride/ride.css);
+@import url(../block/ride/__image/ride__image.css);
+@import url(../block/ride/__text/ride__text.css);
+@import url(../block/ride/__title/ride__title.css);
+@import url(../block/ride/__author/ride__author.css);
+@import url(../block/ride/__author-subtitle/ride__author-subtitle.css);
+@import url(../block/ride/__line/ride__line.css);
+
+@import url(../block/highway/highway.css);
+@import url(../block/highway/__title/highway__title.css);
+@import url(../block/highway/__text/highway__text.css);
+@import url(../block/highway/__image/highway__image.css);
+@import url(../block/highway/__buttons/highway__buttons.css);
+@import url(../block/highway/__button/highway__button.css);
+@import url(../block/highway/__line/highway__line.css);
