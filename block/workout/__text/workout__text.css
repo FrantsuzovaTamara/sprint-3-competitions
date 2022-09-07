@@ -13,3 +13,9 @@
         padding-top: 0; 
     }
 }
+
+@media screen and (max-width: 660px) {
+    .workout__text {
+        font-size: 12px; 
+    }
+}
