@@ -5,10 +5,16 @@
   line-height: 1.286;
   color: #151515;
   text-decoration: none;
+  opacity: 1;
+  transition: opacity .5s ease;
 }
 
 @media screen and (max-width: 1023px) {
     .header__link {
         display: none;
     }
+}
+
+.header__link:hover {
+  opacity: .5;
 }

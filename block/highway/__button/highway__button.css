@@ -11,6 +11,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    opacity: 1;
+    transition: backgraund .5s ease;
 }
 
 .highway__button:first-of-type {
@@ -25,4 +27,8 @@
     .highway__button:first-of-type {
         margin-right: 10px;
     }
+}
+
+.highway__button:hover {
+    background: #c3c3c3;
 }
