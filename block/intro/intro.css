@@ -11,6 +11,15 @@
     .intro {
         padding: 40px 18px 0;
         background-size: min(254px) min(348px);
+        background-size: 65% auto;
+        background-position: right 18px top 160px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .intro {
+        padding: 40px 18px 0;
+        background-size: min(254px) min(348px);
         background-size: 79.375% auto;
         background-position: right 18px bottom 278px;
     }
