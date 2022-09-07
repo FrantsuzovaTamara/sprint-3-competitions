@@ -2,7 +2,7 @@
     .header__menu {
         width: 22px;
         height: 22px;
-        background-image: url(/images/menu__icon.svg);
+        background-image: url(../../../images/menu__icon.svg);
         background-repeat: no-repeat;
     }
 }
