@@ -18,3 +18,9 @@
         margin-bottom: 40px;  
     }
 }
+
+@media screen and (max-width: 420px) {
+    .bikes__title {
+        margin-bottom: 32px;  
+    }
+}

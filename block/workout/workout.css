@@ -9,12 +9,12 @@
     justify-content: space-between;
     max-width: 1200px; 
     margin: 0 auto; 
-    padding: 210px 48px 120px 48px; 
+    padding: 210px 120px 120px 120px; 
 }
 
 @media screen and (max-width: 1023px) {
   .workout {
-    padding: 40px 48px 120px 48px; 
+    padding: 40px 18px 120px 18px; 
     grid-template-columns: 1fr;
     grid-template-rows: repeat(4, minmax(min-content, max-content));
     grid-template-areas: "title"
@@ -27,12 +27,12 @@
 
 @media screen and (max-width: 768px) {
     .workout {
-      padding: 40px 24px 80px 24px; 
+      padding-bottom: 80px;  
     }
 }
   
 @media screen and (max-width: 420px) {
   .workout {
-    padding: 40px 18px 60px 18px; 
+    padding-bottom: 60px; 
   }
 }

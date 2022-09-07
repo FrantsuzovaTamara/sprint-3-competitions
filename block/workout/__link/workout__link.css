@@ -4,8 +4,20 @@
     font-size: 18px;
     line-height: 2.3;
     color: #151515;
+    opacity: 1; 
+    transition: opacity 0.1s linear;
+}
+
+.workout__link:hover {
+    opacity: 0.7; 
 }
 
 .workout__link:not(:last-of-type) {
     margin-right: 30px; 
+}
+
+@media screen and (max-width: 660px) {
+    .workout__link {
+        font-size: 12px; 
+    }
 }
