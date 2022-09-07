@@ -1,5 +1,10 @@
 .bikes__link_active {
     font-weight: 600;
     color: #151515;
-    opacity: 1; 
+    opacity: 1;
+    transition: opacity 0.3s linear; 
+}
+
+.bikes__link_active:hover {
+    opacity: .7;
 }
