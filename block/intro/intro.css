@@ -1,6 +1,6 @@
 .intro {
     padding: 20px 0 0 120px;
-    background-image: url(/images/intro__image.png);
+    background-image: url(../../images/intro__image.png);
     background-size: max(610px) max(836px);
     background-size: 42.361% auto;
     background-position: right 0 bottom 0;
