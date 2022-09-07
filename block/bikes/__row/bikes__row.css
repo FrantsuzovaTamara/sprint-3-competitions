@@ -1,0 +1,19 @@
+.bikes__row {
+    display: flex; 
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 120px;
+}
+
+@media screen and (max-width: 768px) {
+    .bikes__row {
+        margin-bottom: 80px; 
+    }
+}
+
+@media screen and (max-width: 460px) {
+    .bikes__row {
+        flex-direction: column;
+        margin-bottom: 20px;
+    }
+}

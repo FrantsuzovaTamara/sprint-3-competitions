@@ -1,0 +1,11 @@
+.bikes__line {
+    display: none; 
+}
+
+@media screen and (max-width: 1023px) {
+    .bikes__line {
+        display: block;
+        height: 1px;
+        background: #D7D4D4;
+    }
+}

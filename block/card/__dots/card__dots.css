@@ -1,0 +1,9 @@
+.card__dots {
+    display: none;
+}
+
+@media screen and (max-width: 660px) {
+    .card__dots {
+        display: flex;
+    }
+}

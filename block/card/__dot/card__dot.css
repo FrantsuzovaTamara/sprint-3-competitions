@@ -1,0 +1,10 @@
+.card__dot {
+    width: 4px;
+    height: 4px;
+    background-color: #CACACA;
+    border-radius: 50%;
+}
+
+.card__dot:not(:last-of-type) {
+    margin-right: 5px;
+}

@@ -1,0 +1,19 @@
+.bikes {
+    max-width: 1200px; 
+    margin: 0 auto; 
+    padding: 0 48px; 
+}
+
+
+@media screen and (max-width: 768px) {
+  .bikes {
+    padding: 0 24px;
+  }
+}
+  
+@media screen and (max-width: 420px) {
+  .bikes {
+    padding: 0 18px;
+  }
+}
+  

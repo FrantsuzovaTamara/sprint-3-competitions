@@ -1,0 +1,12 @@
+.bikes__types {
+    display: flex; 
+    margin: 0; 
+    padding: 0; 
+    list-style: none; 
+}
+
+@media screen and (max-width: 660px) {
+    .bikes__types {
+        display: none; 
+    }
+}

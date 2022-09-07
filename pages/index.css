@@ -31,3 +31,39 @@
 @import url(../block/highway/__buttons/highway__buttons.css);
 @import url(../block/highway/__button/highway__button.css);
 @import url(../block/highway/__line/highway__line.css);
+
+@import url(../block/bikes/bikes.css);
+@import url(../block/bikes/__row/bikes__row.css);
+@import url(../block/bikes/__title/bikes__title.css);
+@import url(../block/bikes/__types/bikes__types.css);
+@import url(../block/bikes/__type/bikes__type.css);
+@import url(../block/bikes/__link/bikes__link.css);
+@import url(../block/bikes/__link/_active/bikes__link_active.css);
+@import url(../block/bikes/__cards/bikes__cards.css);
+
+@import url(../block/card/card.css);
+@import url(../block/card/_active/card_active.css);
+@import url(../block/card/__title/card__title.css);
+@import url(../block/card/__image-wrapper/card__image-wrapper.css);
+@import url(../block/card/__image/card__image.css);
+@import url(../block/card/__dots/card__dots.css);
+@import url(../block/card/__dot/card__dot.css);
+@import url(../block/card/__dot/_active/card__dot_active.css);
+
+@import url(../block/bikes/__types-form/bikes__types-form.css);
+@import url(../block/bikes/__select/bikes__select.css);
+@import url(../block/bikes/__select-item/bikes__select-item.css);
+@import url(../block/bikes/__line/bikes__line.css);
+
+@import url(../block/workout/workout.css);
+@import url(../block/workout/__title/workout__title.css);
+@import url(../block/workout/__text/workout__text.css);
+@import url(../block/workout/__links/workout__links.css);
+@import url(../block/workout/__link/workout__link.css);
+@import url(../block/workout/__image/workout__image.css);
+
+@import url(../block/footer/footer.css);
+@import url(../block/footer/__container/footer__container.css);
+@import url(../block/footer/__title/footer__title.css);
+@import url(../block/footer/__email/footer__email.css);
+@import url(../block/footer/__copyright/footer__copyright.css);

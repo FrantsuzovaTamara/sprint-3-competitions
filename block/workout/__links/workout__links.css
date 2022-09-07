@@ -1,0 +1,4 @@
+.workout__links {
+    grid-area: links;
+    display: flex; 
+}

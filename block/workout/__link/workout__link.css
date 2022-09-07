@@ -1,0 +1,11 @@
+.workout__link {
+    text-decoration: none; 
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 2.3;
+    color: #151515;
+}
+
+.workout__link:not(:last-of-type) {
+    margin-right: 30px; 
+}

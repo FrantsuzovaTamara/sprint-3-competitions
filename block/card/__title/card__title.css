@@ -1,0 +1,15 @@
+.card__title {
+    margin: 0; 
+    padding-left: 6px; 
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 1.22;
+    color: #151515;
+}
+
+@media screen and (max-width: 660px) {
+    .card__title {
+        text-align: center;
+        transform: translateY(-40px);
+    }
+}

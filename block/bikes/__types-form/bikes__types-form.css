@@ -1,0 +1,9 @@
+.bikes__types-form {
+    display: none;
+}
+
+@media screen and (max-width: 660px) {
+    .bikes__types-form {
+        display: block;
+    }
+}
