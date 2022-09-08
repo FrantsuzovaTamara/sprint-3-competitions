@@ -1,0 +1,17 @@
+.highway__figure {
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    top: max(344px);
+    top: 86%;
+    left: 0;
+}
+
+@media screen and (max-width: 767px) {
+    .highway__figure {
+        width: 70px;
+        height: 28px;
+        top: min(133px);
+        top: 76%;
+    }
+}

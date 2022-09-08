@@ -1,15 +1,11 @@
-.highway__image:first-of-type {
-    grid-area: image1;
-}
-
 .highway__image:last-of-type {
     grid-area: image2;
 }
 
 @media screen and (max-width: 1023px) {
     .highway__image:first-of-type {
-        min-width: 284px;
         width: 100%;
+        min-height: 175px;
     }
     .highway__image:last-of-type {
         display: none;

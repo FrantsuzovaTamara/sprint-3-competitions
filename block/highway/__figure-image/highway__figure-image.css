@@ -1,0 +1,14 @@
+.highway__figure-image {
+    grid-area: image1;
+    max-height: 400px;
+    max-width: 650px;
+    width: 100%;
+    position: relative;
+}
+
+@media screen and (max-width: 1023px) {
+    .highway__figure-image {
+        min-width: 284px;
+        height: 54.68vw;
+    }
+}

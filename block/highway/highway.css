@@ -16,7 +16,7 @@
 
 @media screen and (max-width: 1023px) {
     .highway {
-        padding: 0 18px 42px;
+        padding: 0 18px 40px;
         row-gap: 40px;
         justify-content: space-between;
         align-items: center;

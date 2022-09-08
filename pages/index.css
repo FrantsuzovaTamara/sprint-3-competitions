@@ -29,7 +29,9 @@
 
 @import url(../block/highway/highway.css);
 @import url(../block/highway/__text/highway__text.css);
+@import url(../block/highway/__figure-image/highway__figure-image.css);
 @import url(../block/highway/__image/highway__image.css);
+@import url(../block/highway/__figure/highway__figure.css);
 @import url(../block/highway/__buttons/highway__buttons.css);
 @import url(../block/highway/__button/highway__button.css);
 
