@@ -4,7 +4,8 @@
     background-color: transparent;
     appearance: none;
     background: url(../../../images/arrow_down.svg) no-repeat right;
-    background-position-x: calc(100% - 12px);
+    background-position-x: calc(100% - 10px);
     border: 1px solid #E3E3E3;
     border-radius: 2px;
+    font-size: 11px;
 }
