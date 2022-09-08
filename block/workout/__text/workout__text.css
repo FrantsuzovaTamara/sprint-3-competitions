@@ -1,6 +1,6 @@
 .workout__text {
     grid-area: text;
-    padding-top: 50px; 
+    padding-top: 47px; 
     margin: 0; 
     font-size: 18px;
     line-height: 1.56;
@@ -17,5 +17,6 @@
 @media screen and (max-width: 660px) {
     .workout__text {
         font-size: 12px; 
+        line-height: 1.5;
     }
 }

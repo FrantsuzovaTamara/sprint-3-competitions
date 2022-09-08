@@ -18,8 +18,9 @@
 @media screen and (max-width: 660px) {
     .card__link {
         text-align: center;
-        transform: translateY(-40px);
+        transform: translateY(-34px);
         font-size: 14px;
+        padding-left: 0; 
     }
 }
 
