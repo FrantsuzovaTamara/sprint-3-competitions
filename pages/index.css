@@ -15,7 +15,6 @@
 @import url(../block/section-title/_place/section-title_place_workout.css);
 
 @import url(../block/intro/intro.css);
-@import url(../block/intro/__subtitle/intro__subtitle.css);
 @import url(../block/intro/__link/intro__link.css);
 @import url(../block/intro/__line-text/intro__line-text.css);
 @import url(../block/intro/__text/intro__text.css);
@@ -60,7 +59,6 @@
 
 @import url(../block/workout/workout.css);
 @import url(../block/workout/__title/workout__title.css);
-@import url(../block/workout/__text/workout__text.css);
 @import url(../block/workout/__links/workout__links.css);
 @import url(../block/workout/__link/workout__link.css);
 @import url(../block/workout/__image/workout__image.css);
@@ -72,7 +70,13 @@
 @import url(../block/footer/__copyright/footer__copyright.css);
 
 @import url(../block/section-title/section-title.css);
+
 @import url(../block/section-text/section-text.css);
+@import url(../block/section-text/_place/section-text_place_intro.css);
+@import url(../block/section-text/_place/section-text_place_highway.css);
+@import url(../block/section-text/_place/section-text_place_workout.css);
+
 @import url(../block/section-line/section-line.css);
+
 @import url(../block/hover-animation-link/hover-animation-link.css);
 @import url(../block/hover-animation-link/_inactive/hover-animation-link_inactive.css);
