@@ -1,3 +1,11 @@
 .section-line {
-    
+    display: none;
+}
+
+@media screen and (max-width: 1023px) {
+    .section-line {
+        display: block;
+        height: 1px;
+        background: #D7D4D4;
+    }
 }

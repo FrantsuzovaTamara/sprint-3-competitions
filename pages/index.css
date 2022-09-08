@@ -21,7 +21,6 @@
 @import url(../block/ride/__title/ride__title.css);
 @import url(../block/ride/__author/ride__author.css);
 @import url(../block/ride/__author-subtitle/ride__author-subtitle.css);
-@import url(../block/ride/__line/ride__line.css);
 
 @import url(../block/highway/highway.css);
 @import url(../block/highway/__title/highway__title.css);
@@ -29,7 +28,6 @@
 @import url(../block/highway/__image/highway__image.css);
 @import url(../block/highway/__buttons/highway__buttons.css);
 @import url(../block/highway/__button/highway__button.css);
-@import url(../block/highway/__line/highway__line.css);
 
 @import url(../block/bikes/bikes.css);
 @import url(../block/bikes/__row/bikes__row.css);
@@ -52,7 +50,6 @@
 @import url(../block/bikes/__types-form/bikes__types-form.css);
 @import url(../block/bikes/__select/bikes__select.css);
 @import url(../block/bikes/__select-item/bikes__select-item.css);
-@import url(../block/bikes/__line/bikes__line.css);
 
 @import url(../block/workout/workout.css);
 @import url(../block/workout/__title/workout__title.css);
@@ -74,6 +71,7 @@
 @import url(../block/section-text/_place/section-text_place_workout.css);
 
 @import url(../block/section-line/section-line.css);
+@import url(../block/section-line/_place/section-line_place_highway.css);
 
 @import url(../block/hover-animation-link/hover-animation-link.css);
 @import url(../block/hover-animation-link/_inactive/hover-animation-link_inactive.css);
