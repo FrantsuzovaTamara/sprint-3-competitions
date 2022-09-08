@@ -1,9 +1,9 @@
-.card__dots {
+.bikes__dots {
     display: none;
 }
 
 @media screen and (max-width: 660px) {
-    .card__dots {
+    .bikes__dots {
         display: flex;
         padding-top: 4px; 
     }

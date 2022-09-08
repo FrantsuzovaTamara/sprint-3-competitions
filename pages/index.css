@@ -40,15 +40,15 @@
 @import url(../block/bikes/__link/bikes__link.css);
 @import url(../block/bikes/__link/_active/bikes__link_active.css);
 @import url(../block/bikes/__cards/bikes__cards.css);
+@import url(../block/bikes/__dots/bikes__dots.css);
+@import url(../block/bikes/__dot/bikes__dot.css);
+@import url(../block/bikes/__dot/_active/bikes__dot_active.css);
 
 @import url(../block/card/card.css);
 @import url(../block/card/_active/card_active.css);
 @import url(../block/card/__link/card__link.css);
 @import url(../block/card/__image-wrapper/card__image-wrapper.css);
 @import url(../block/card/__image/card__image.css);
-@import url(../block/card/__dots/card__dots.css);
-@import url(../block/card/__dot/card__dot.css);
-@import url(../block/card/__dot/_active/card__dot_active.css);
 
 @import url(../block/bikes/__types-form/bikes__types-form.css);
 @import url(../block/bikes/__select/bikes__select.css);
