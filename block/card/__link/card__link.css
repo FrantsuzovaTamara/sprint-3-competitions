@@ -1,5 +1,5 @@
 .card__link {
-    display: block; 
+    display: inline-block; 
     margin: 0; 
     padding-left: 6px; 
     font-weight: 600;
@@ -16,6 +16,7 @@
 
 @media screen and (max-width: 660px) {
     .card__link {
+        display: block; 
         text-align: center;
         transform: translateY(-34px);
         font-size: 14px;
